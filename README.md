@@ -120,6 +120,7 @@ ggplot(holdouts_stats %>% filter(mix_name %in% chemicals_to_display), aes(y=mix_
   theme_minimal() + theme(legend.position="left", panel.grid.minor=element_blank(), axis.text.y=element_text(size=10)) + ylab("Chemical Component") 
 
 ```
+An example graph output (only displaying a very small number of chemicals). Note that this model was not based on the example data_quantized above.
 ![example_graph](https://github.com/user-attachments/assets/5d69d171-5e8c-4b6c-87f7-cc9c1a8b11fb)
 
 
