@@ -1,6 +1,6 @@
 # Analyzing mixture effects of the untargeted chemical exposome
 
-These snippets of R code are intended to be used within an existing workflow for customized modifications to weighted quantile sum (WQS) regression mixture models. Please find detailed information in our upcoming publication (Young et al, 2025, Submitted to _Exposome_, "Commentary: A Statistical Workflow for Analyzing the Untargeted Chemical Exposome and Metabolome in Epidemiologic Studies Using Mixture Methods").
+These snippets of R code are intended to be used within an existing workflow for customized modifications to weighted quantile sum (WQS) regression mixture models. Please find detailed information in our publication in _Exposome_ (Young et al, 2025, "A Statistical Workflow for Analyzing the Untargeted Chemical Exposome and Metabolome in Epidemiologic Studies Using High-Dimensional Mixture Methods"). <https://doi.org/10.1093/exposome/osaf010>
 
 
 
